@@ -2,15 +2,16 @@
 
 This repo is to my self-introduce
 
-#Index
+# Index
 
--index.html
--.gitignore
+- index.html
+- .gitignore
 
-##index.html
+## index.html
+
 My information
 
-##.gitignore
+## .gitignore
 
 See in file
 
